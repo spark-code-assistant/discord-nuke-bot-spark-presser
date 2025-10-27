@@ -1,6 +1,6 @@
 #  Presser: < spark.codez x 7teen >
 
-
+The another file which is read only demonstrates a safe example pls ignore it, it was made during the early days of the project from which the inspiration of the code was taken.
 
 ## Features:
 1. `Mass Create Channels`
